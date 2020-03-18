@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "198282771709",
+    "firebase_url": "https://gsn-signin.firebaseio.com",
+    "project_id": "gsn-signin",
+    "storage_bucket": "gsn-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198282771709:android:60755eb6a5c8e89a991294",
+        "android_client_info": {
+          "package_name": "com.example.gsn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198282771709-025tntb03mmh53msqeg22it7fbct2r51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpG87NXC97ie6768lZ94cIyX-UFKn-2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198282771709-025tntb03mmh53msqeg22it7fbct2r51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
